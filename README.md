@@ -1,1 +1,1 @@
-# TOP-landing-page-project
+This repo is the first project from the Odin Project's Foundations course. A simple landing page to practice what I've learned to this point.
