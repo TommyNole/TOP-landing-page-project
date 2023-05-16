@@ -104,6 +104,7 @@ header {
     width: 200px;
     display: flex;
     flex-direction: column;
+    flex: 1;
     gap: 1rem;
   }
 
